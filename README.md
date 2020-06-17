@@ -13,10 +13,10 @@
 
 [Steps]
 
-Step 1. Define the problem
-Step 2. Data
-Step 3. Evaluation
-Step 4. Features
+1. Define the problem
+2. Data
+3. Evaluation
+4. Features
 
 
 [Terminologies]
